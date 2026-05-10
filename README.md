@@ -69,4 +69,3 @@ I write about production AI engineering — real benchmarks, real architectures,
 
 ---
 
-*Open to Senior/Lead AI Engineer roles at AI-first product companies.*
